@@ -1,2 +1,13 @@
 # IS601 - Homework 8, Pushing to Docker Hub
-## More details added today.
+
+## Watch both lecture videos for Docker commands, Nginx and working a new repo up from scratch
+
+## Homework Requirements
+1.  Build GitHub repo from scratch [X]
+2.  Incorporate GitHub Actions (this time including Docker as well) [X]
+3.  Push Image to my Docker Hub account. [X]
+
+### Screenshot(s)
+-   Screenshot of Image in my Docker Hub account
+
+![Image in ck378 Docker Hub account](/images/dockerhubimage.png)
